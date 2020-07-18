@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Dices</string>
+    <string name="lancer">Lancer</string>
 </resources>
